@@ -6,16 +6,35 @@ surname:	Vakulenko
 
 age:		23 y. o.
 
+<br/>
+
 ---
 ### Contacts
 
-telegram:	https://t.me/vseel_Anatolii
+telegram:	[link](https://t.me/vseel_Anatolii)
+
+discord: [link](https://discordapp.com/users/212591585915961345/)
+
+<br/>
+
 ---
 ### About me
 <!-- Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое) -->
+<br/>
+
 ---
 ### Skills
+- C 3/5
+- Bash 1/5
+- JavaScript 3/5
+- HTML 2/5
+- CSS 1/5
+- Ruby on Rails 1/5
+- Git 1/5
 <!-- Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете) -->
+<br/>
+
+---
 
 ### Code samples
 
@@ -68,15 +87,31 @@ function solution(roman) {
   return res;
 }
 ```
+
+<br/>
+
 ---
 ### Work experience
 to fill
 <!-- Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код. -->
+<br/>
+
 ---
 ### Education
-to fill
+* now - School 21 - C, Ruby on Rails, Bash
+* now - Rolling Scopes School - JS, HTML, CSS, Git
+* Udemy - JS cource
+* College - Telecommunications
 <!-- Образование (включая пройденные курсы и тренинги) -->
+<br/>
+
 ---
 ### English level --- intermediate
-to fill
+In 2018 I was in Sweden for month doing volunteer things. We'd working on Baltic Sea sustainability projects: 
+* Biogas reactor
+* Geodesic greenhouse
+* Biogas filters
+* Biogas carsharing
+
+And there I had opportunity to practice my english skills.
 <!-- Английский язык (уровень английского языка, если была языковая практика, расскажите о ней) -->
