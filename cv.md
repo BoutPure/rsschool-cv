@@ -116,10 +116,10 @@ Actual work experience:
 
 ---
 ### Education
-* now - School 21 - C, Ruby on Rails, Bash
-* now - Rolling Scopes School - JS, HTML, CSS, Git
-* Udemy - JS cource
-* College - Telecommunications
+* (now) **School 21** - C, Ruby on Rails, Bash
+* (now) **Rolling Scopes School** - JS, HTML, CSS, Git
+* **Udemy** - JS cource
+* **College** - Telecommunications
 
 <br/>
 
