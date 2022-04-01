@@ -19,7 +19,14 @@ discord: [link](https://discordapp.com/users/212591585915961345/)
 
 ---
 ### About me
-<!-- Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое) -->
+
+Hey! I'm Anatolii from Russia. I'm living in Kazan now because of studying in School 21 - programming school based on French School 42 franchize. I want to become a cool programmer!
+
+Year ago I was working as Project Manager in IT company. We were developing and maintaining sites and CRM systems basically for e-commerce and real-estate industries and also for other ones but on a smaller scale.
+
+I'm vegan already for 4 years. Feeling great!<br/>
+I like cycling, longboarding, walking and exploring cities.
+
 <br/>
 
 ---
@@ -31,7 +38,10 @@ discord: [link](https://discordapp.com/users/212591585915961345/)
 - CSS 1/5
 - Ruby on Rails 1/5
 - Git 1/5
-<!-- Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете) -->
+- VS Code 3/5
+- JetBrains IDEs 2/5
+- Debugging tools 3/5
+
 <br/>
 
 ---
@@ -92,8 +102,16 @@ function solution(roman) {
 
 ---
 ### Work experience
-to fill
-<!-- Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код. -->
+Dev projects:
+1. Push Swap - creation and implementation of action-performance sorting algorithm for two stacks.
+1. Philosophers - Solution for *Dining Philosophers Problem*. Practiced in multithreaded and multi process programs with sync via mutexes and semaphores.
+
+Actual work experience:
+
+1. Project Manager in IT - 1.5 years
+1. Cashier in Public Catering - 0.5 years
+1. Tecnician in Advertising agency - 0.5 years
+
 <br/>
 
 ---
@@ -102,7 +120,7 @@ to fill
 * now - Rolling Scopes School - JS, HTML, CSS, Git
 * Udemy - JS cource
 * College - Telecommunications
-<!-- Образование (включая пройденные курсы и тренинги) -->
+
 <br/>
 
 ---
@@ -114,4 +132,3 @@ In 2018 I was in Sweden for month doing volunteer things. We'd working on Baltic
 * Biogas carsharing
 
 And there I had opportunity to practice my english skills.
-<!-- Английский язык (уровень английского языка, если была языковая практика, расскажите о ней) -->
